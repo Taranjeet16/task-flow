@@ -8,7 +8,7 @@ Author: Taranjeet Singh
 https://drive.google.com/file/d/1ulEhvTvoawn9RJBPvEy0-3o1ZEsfO3y4/view?usp=sharing
 
 🚀 Live Demo (Vercel):
-https://taskflow-6fv9l4fgj-taranjeet-singhs-projects-dd104821.vercel.app/
+https://taskflow-five-eta.vercel.app
 
 📂 GitHub Repository:
 https://github.com/Taranjeet16/task-flow.git
